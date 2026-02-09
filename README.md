@@ -271,19 +271,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Project Maintainer**: [Your Name]
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
----
-
-⭐ **If this project helped you, please give it a star!** ⭐
-
----
-
-## 📈 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/your-username/3-tier-devsecops-project)
-![GitHub forks](https://img.shields.io/github/forks/your-username/3-tier-devsecops-project)
-![GitHub issues](https://img.shields.io/github/issues/your-username/3-tier-devsecops-project)
-![GitHub license](https://img.shields.io/github/license/your-username/3-tier-devsecops-project)
+- GitHub: abhi002shek
+- LinkedIn: https://www.linkedin.com/in/abhishek-singh-2b96961a0/
+- Email: itsabhishek1531@gmail.com
