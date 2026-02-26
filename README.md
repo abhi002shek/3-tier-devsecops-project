@@ -93,7 +93,7 @@ Infrastructure as Code implementation featuring:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/3-tier-devsecops-project.git
+git clone https://github.com/abhi002shek/3-tier-devsecops-project.git
 cd 3-tier-devsecops-project
 ```
 
